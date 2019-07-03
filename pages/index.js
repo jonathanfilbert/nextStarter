@@ -1,5 +1,4 @@
 import React from "react";
-import Head from "../components/Head";
 import Layout from "../components/Layout";
 import { Flex, Box } from "rebass";
 import styled from "styled-components";
@@ -12,7 +11,6 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <Head title="Your amazing app" />
         <Layout>
           <Body>
             <Flex flexWrap="wrap" justifyContent="center">
