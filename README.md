@@ -6,6 +6,13 @@
 
 _A NextJS starterkit that contains the bare minimum to build a **mesmerizing** NextJs application._
 
+## **Get Started**
+
+1. Clone this repo
+2. `npm run dev`
+3. Open `http://localhost:3000/` in your browser
+4. Profit! 💵
+
 ## **What's Included**
 
 - NextJS
