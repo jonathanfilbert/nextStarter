@@ -1,5 +1,7 @@
 # Jofil's Next-Starterkit
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/790b166f-ec5b-43c4-baec-e8089ebad176/deploy-status)](https://app.netlify.com/sites/jofil-next-starter/deploys)
+
 ## **What is this?**
 
 _A NextJS starterkit that contains the bare minimum to build a **mesmerizing** NextJs application._
