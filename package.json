@@ -1,0 +1,22 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "generate": "plop --plopfile internals/generators/index.js",
+    "prettify": "prettier --write",
+    "export": "next export",
+    "deploy": "npm run build && npm run export"
+  },
+  "dependencies": {
+    "next": "^8.1.0",
+    "plop": "^2.4.0",
+    "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "rebass": "^3.1.1",
+    "styled-components": "^4.3.2"
+  }
+}
